@@ -1,0 +1,12 @@
+
+moyai_run.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Rock1_Run
+  rotate: false
+  xy: 1, 1
+  size: 532, 34
+  orig: 532, 34
+  offset: 0, 0
+  index: -1

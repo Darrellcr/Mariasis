@@ -1,0 +1,12 @@
+Rock1_Hit.png
+size: 40, 30
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rock1_Hit
+  rotate: false
+  xy: 1, 1
+  size: 38, 28
+  orig: 38, 34
+  offset: 0, 0
+  index: -1

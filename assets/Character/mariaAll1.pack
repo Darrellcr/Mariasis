@@ -1,0 +1,26 @@
+mariaAll1.png
+size: 837, 65
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+maria_idle
+  rotate: false
+  xy: 797, 1
+  size: 39, 60
+  orig: 39, 60
+  offset: 0, 0
+  index: -1
+maria_jump
+  rotate: false
+  xy: 1, 1
+  size: 431, 63
+  orig: 512, 64
+  offset: 0, 1
+  index: -1
+maria_run
+  rotate: false
+  xy: 434, 1
+  size: 361, 63
+  orig: 512, 64
+  offset: 0, 1
+  index: -1

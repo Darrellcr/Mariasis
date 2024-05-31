@@ -1,0 +1,19 @@
+
+trunk.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Attack
+  rotate: false
+  xy: 1, 19
+  size: 704, 32
+  orig: 704, 32
+  offset: 0, 0
+  index: -1
+Bullet
+  rotate: false
+  xy: 1, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1

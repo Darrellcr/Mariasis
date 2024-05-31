@@ -1,0 +1,19 @@
+
+turtle.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Idle_2
+  rotate: false
+  xy: 1, 1
+  size: 616, 26
+  orig: 616, 26
+  offset: 0, 0
+  index: -1
+Spikes_out
+  rotate: false
+  xy: 619, 1
+  size: 352, 26
+  orig: 352, 26
+  offset: 0, 0
+  index: -1
